@@ -4,7 +4,7 @@
 --- PREFIX: CuriJokers
 --- MOD_AUTHOR: [Joseph and Balatro fans]
 --- MOD_DESCRIPTION: Curi Jokers
---- VERSION: 1.0
+--- VERSION: 1.2
 --- DEPENDENCIES: [malverk]
 
 G.F_NO_ACHIEVEMENTS = false
